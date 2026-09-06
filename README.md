@@ -233,7 +233,7 @@ It also improved my ability to communicate analytical findings clearly and conve
 
 The final presentation summarizes the major findings, statistical validation, business insights, and recommendations developed throughout the internship.
 
-**[View Final Presentation](presentation/ApexPlanet_task4_Final_Presentation.pptx)**
+**[View Final Presentation](presentation/Final_Presentation.pptx)**
 
 ---
 
